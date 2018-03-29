@@ -94,7 +94,7 @@
 /**
  *  根据时间获取星期
  *
- *  @param dataString dataString description
+ *  @param dateString dateString description
  *
  *  @return 星期五
  */
@@ -103,9 +103,9 @@
 /**
  *  根据时间戳获取时分秒
  *
- *  @param dateString <#dateString description#>
+ *  @param dateString dateString description
  *
- *  @return <#return value description#>
+ *  @return return value description
  */
 + (NSString *)hourAndMinuteSinceDateString:(NSString *)dateString;
 
