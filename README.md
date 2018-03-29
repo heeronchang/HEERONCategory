@@ -1,4 +1,5 @@
 # HEERONCategory
-A test repository.
+A pod collect some common Objective-C categories.
+
 ## Usage
 `pod 'HEERONCategory'`
