@@ -1,4 +1,4 @@
 # HEERONCategory
 A test repository.
 ## Usage
-pod 'HEERONCategory'
+`pod 'HEERONCategory'`
